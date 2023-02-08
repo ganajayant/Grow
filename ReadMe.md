@@ -5,7 +5,7 @@
 
 
 # Deployment Link
-`https://zesty-buttercream-8cb95e.netlify.app/page2`
+`https://zesty-buttercream-8cb95e.netlify.app/`
 
 # Routes
 / for PageOne<br />
